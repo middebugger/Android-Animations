@@ -1,0 +1,14 @@
+# Android-Animations
+* blink<br/>
+* bounce<br/>
+* fade_in<br/>
+* fade_out<br/>
+* flip<br/>
+* move<br/>
+* rotate<br/>
+* sequential<br/>
+* slide_down<br/>
+* slide_up<br/>
+* together<br/>
+* zoom_in<br/>
+* zoom_out<br/>
